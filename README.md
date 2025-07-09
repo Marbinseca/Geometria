@@ -8,9 +8,9 @@
 
 ¡Puedes probar la aplicación en vivo! Está desplegada en Streamlit Community Cloud.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](geometria.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([geometria.streamlit.app/](https://geometria.streamlit.app/))
 
-**[Haz clic aquí para abrir la aplicación](geometria.streamlit.app/)**
+**[Haz clic aquí para abrir la aplicación](https://geometria.streamlit.app/)**
 
 ---
 
