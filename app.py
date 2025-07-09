@@ -14,7 +14,7 @@ col1, col2 = st.columns([1, 5])
 with col1:
     try:
         image = Image.open('assets/logo.png')
-        st.image(image, use_column_width='auto')
+        st.image(image, use_container_width ='auto')
     except FileNotFoundError:
         # Si no se encuentra el logo, simplemente no se muestra.
         pass
