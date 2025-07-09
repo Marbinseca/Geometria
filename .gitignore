@@ -1,0 +1,28 @@
+# Archivos de Bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos Virtuales
+venv/
+.venv/
+env/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias y build
+*.egg-info/
+build/
+dist/
+
+# Archivos de Streamlit (si se generan localmente)
+.streamlit/
+
+
