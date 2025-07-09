@@ -2,6 +2,18 @@
 
 ¡Bienvenido! Esta es una aplicación web interactiva construida con Streamlit para explorar y resolver problemas de geometría analítica. La herramienta está diseñada para ser educativa, proporcionando cálculos paso a paso y visualizaciones gráficas para cada concepto.
 
+---
+
+## 🚀 Demo en Vivo
+
+¡Puedes probar la aplicación en vivo! Está desplegada en Streamlit Community Cloud.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](geometria.streamlit.app/)
+
+**[Haz clic aquí para abrir la aplicación](geometria.streamlit.app/)**
+
+---
+
 ## ✨ Características
 
 La aplicación incluye calculadoras para los siguientes temas:
